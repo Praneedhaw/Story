@@ -1,1 +1,2 @@
 Its a new file
+It also can be edited
