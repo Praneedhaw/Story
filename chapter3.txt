@@ -1,0 +1,5 @@
+When you create an app, a git remote (called heroku) is also created and associated with your local git repository.
+
+Heroku generates a random name (in this case shrouded-anchorage-35377) for your app, or you can pass a parameter to specify your own app name.
+
+Now deploy your code:

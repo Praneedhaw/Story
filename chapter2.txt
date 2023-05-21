@@ -1,0 +1,1 @@
+By default, apps use Eco dynos if you are subscribed to Eco. Otherwise, it defaults to Basic dynos. The Eco dynos plan is shared across all Eco dynos in your account and is recommended if you plan on deploying many small apps to Heroku. Learn more here. Eligible students can apply for platform credits through our Heroku for GitHub Students program.
